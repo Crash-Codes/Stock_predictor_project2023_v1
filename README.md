@@ -15,3 +15,22 @@ This project is a machine learning-based stock price predictor. It uses historic
    ```sh
    git clone https://github.com/Crash-Codes/Stock_predictor_project2023_v1.git
    cd Stock_predictor_project2023_v1
+   ```
+2. Install dependencies:
+```sh
+   pip install -r requirements.txt
+
+```
+##Usage
+1. Run the data preprocessing script:
+```sh
+   python preprocess.py
+```
+2. Train the model:
+```sh
+python train.py
+```
+3. Predict stock prices:
+```sh
+python predict.py
+```
