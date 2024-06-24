@@ -17,20 +17,23 @@ This project is a machine learning-based stock price predictor. It uses historic
    cd Stock_predictor_project2023_v1
    ```
 2. Install dependencies:
-```sh
-   pip install -r requirements.txt
-
-```
+   ```sh
+      pip install -r requirements.txt
+   
+   ```
 ## Usage
 1. Run the data preprocessing script:
-```sh
-   python preprocess.py
-```
+   ```sh
+      python preprocess.py
+   ```
 2. Train the model:
-```sh
-python train.py
-```
+   ```sh
+   python train.py
+   ```
 3. Predict stock prices:
-```sh
-python predict.py
-```
+   ```sh
+   python predict.py
+   ```
+
+![Build Status](https://img.shields.io/github/workflow/status/Crash-Codes/Stock_predictor_project2023_v1/build)
+![License](https://img.shields.io/github/license/Crash-Codes/Stock_predictor_project2023_v1)
