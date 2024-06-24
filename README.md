@@ -21,7 +21,7 @@ This project is a machine learning-based stock price predictor. It uses historic
    pip install -r requirements.txt
 
 ```
-##Usage
+## Usage
 1. Run the data preprocessing script:
 ```sh
    python preprocess.py
